@@ -19,5 +19,5 @@ This project extensively uses **CSS Flexbox** for layout design:
 - **Image gallery** (`.images`) uses `display: flex` with `gap` for evenly spaced images.  
 - **Footer** (`.foot`) is centered using `display: flex; align-items: center; justify-content: center;`.  
 
-## 📸 Preview  
-![Coffee Haven Preview](https://skanda-prasaad.github.io/Coffee-website-flexbox/)  
+## Preview  
+https://skanda-prasaad.github.io/Coffee-website-flexbox/
